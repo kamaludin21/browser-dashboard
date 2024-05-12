@@ -27,6 +27,8 @@ An interaction welcome page for browser serve any utilities and tools for produc
 - Kanban Board
 - Realtime Chat
 - Media (Video, Image)
+- Tags
+	- Easyly find file or items
 
 ## Tech Stack
 
