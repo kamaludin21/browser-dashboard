@@ -1,10 +1,38 @@
-# browser-dashboard
+# Super Dashboard
 
-This template should help get you started developing with Vue 3 in Vite.
+An interaction welcome page for browser serve any utilities and tools for productivity.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Todolist
+- Calender
+- Smart Notes 
+- Widget
+- Blog Tips and Tricks
+- Snippet Code
+- Contact List
+- Bookmarks Links
+	- Shortcut Links
+	- Jobseeker Links
+	- Freelance Links
+- Project Manager (Node Only)
+	- Running project (bun dev)
+	- Access Folder (Move, Rename, Delete, Edit)
+	- Add Path
+- Personal Data
+	- CV
+	-	Email
+	- Social Media
+- Lock Screen
+- Kanban Board
+- Realtime Chat
+- Media (Video, Image)
+
+## Tech Stack
+
+- [Javascript](https://code.visualstudio.com/)
+- [SQLite](https://code.visualstudio.com/)
+- [](https://code.visualstudio.com/)
 
 ## Type Support for `.vue` Imports in TS
 
